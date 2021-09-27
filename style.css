@@ -1,0 +1,38 @@
+body{
+    margin: auto;
+}
+
+.intestazione {
+    height: 180px;
+    background-color: rgb(0, 162, 255);
+    background-image: url('img/pattern.png');
+    background-repeat: repeat;
+}
+
+.logo{
+    width: 300px;
+    margin-top: 100px;
+    padding: 8px;
+}
+
+h1{
+    font-size: 50px;
+    padding: 8px;
+    margin: 0;
+}
+
+.autore-data{
+    padding: 8px;
+    width: 170px;
+    color: lightgray;
+}
+
+.autore{
+    color: rgb(0, 162, 255);
+}
+
+.data{
+    font-size: 12px;
+}
+
+
