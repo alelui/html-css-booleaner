@@ -36,6 +36,8 @@ h1{
 }
 
 
+
+
 /* main */
 
 main, footer{
@@ -54,6 +56,8 @@ h6{
 .importante{
     background-color: yellow;
 }
+
+
 
 
 table{
@@ -76,6 +80,9 @@ thead .descirzione{
 tbody .colorata {
     background-color: turquoise;
 }
+
+
+/* footer */
 
 footer{
     padding: 8px;
