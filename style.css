@@ -52,6 +52,25 @@ h6{
 }
 
 
+table{
+    width: 100%;
+}
+
+thead{
+    background-color: rgb(0, 162, 255);
+}
+
+thead > tr{
+    color: white;
+}
+
+thead .descirzione{
+    width: 50%;
+}
+
+tbody .colorata {
+    background-color: turquoise;
+}
 
 
 
