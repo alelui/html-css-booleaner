@@ -54,6 +54,7 @@ h6{
 
 table{
     width: 100%;
+    border-spacing: 0;
 }
 
 thead{
@@ -72,5 +73,21 @@ tbody .colorata {
     background-color: turquoise;
 }
 
+footer{
+    padding: 8px;
+    text-align: center;
+}
+footer > div{
+    width: 270px;
+    height: 208px;
+    background-image: url('img/monitor.jpg');
+    background-size: cover;
+}
+
+footer > div > span{
+    font-size: 25px;
+    color: white;
+    margin-top: 8px;
+}
 
 
